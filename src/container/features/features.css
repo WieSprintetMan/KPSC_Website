@@ -1,0 +1,13 @@
+.kpsc__features {
+    background-color: #DEDEDE;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1340px) {
+    .kpsc__features {
+        justify-content: center;
+    }
+}

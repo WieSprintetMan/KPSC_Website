@@ -1,0 +1,37 @@
+{
+    "Header_Solutions": "Solution",
+    "Header_Solutions_PRP": "Purchace requisition processing",
+    "Header_Solutions_OC": "Order Confirmation",
+    "Header_Solutions_DNP": "Delivery note processing",
+    "Header_Solutions_GRP": "Goods return processing",
+    "Header_Solutions_IP": "Invoice Processing",
+    "Header_Solutions_SOP": "Sales order processing",
+    "Header_Solutions_BPR": "Buisness Partner registration",
+    "Header_Solutions_TEP": "Travel expense processing",
+    "Header_References": "References",
+    "Header_References_SE": "Social Engagement",
+    "Header_Support": "Support",
+    "Header_Company": "Company",
+    "Header_Contact": "Contact",
+
+    "Footer_Header_Header": "We'll be there for you",
+    "Footer_Header_Call_Header": "Call KPSC",
+    "Footer_Header_Call_Content": "Phone: 49 4348 91 90 00",
+    "Footer_Header_Mail_Header": "Email",
+    "Footer_Header_Mail_Content": "info@kpsc.com",
+    "Footer_Footer_Jobs": "Jobs",
+    "Footer_Footer_Contact": "Contact",
+    "Footer_Footer_Imprint": "Imprint",
+    "Footer_Footer_DataProtection": "Data protection",
+
+    "Main_Header_Image_Head": "Purchase to Pay from KPSC in SAP",
+    "Main_Header_Image_Content": "From procurement to payment - The transformation of your process into the digtal era",
+    "Main_Header_Image_Footer": "Products for optimized SAP processes",
+
+    "Main_Brand_Head": "Individual mapping of company processes in SAP",
+    "Main_Brand_Content": "KPSC GmbH offers you a fully integrated software platform in your SAP system for the automatic collection an enrichment of transaction- related data.",
+
+    "Main_Solution_Header": "KPSC solutions for automated and digitized SAP processes",
+    "Main_Solution_Content": "With the KPSC solutions you optimize the digital processes in your company. The KPSC solutions are modular, versatile and intelligent. Our products map the essential processes related to the acquisition and enrichment of process-related data. They are processed on a document-specific basis and configured individually depending on the SAP object and company code processes. With products from KPSC you can, for example, process orders, returns, invoices, customer orders or travel expense reports quickly and efficiently in SAP. If required, mobile access is possible via our intuitive app.",
+    "Main_Solution_Button": "KPSC solutions"
+}

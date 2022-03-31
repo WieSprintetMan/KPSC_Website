@@ -1,0 +1,51 @@
+.kpsc__features-container__feature-title div {
+    width: 38px;
+    height: 3px;
+    background: orange;
+}
+
+.kpsc__features-container__feature-title h1 {
+    font-size: 36;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+.kpsc__features-container__feature-text {
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+}
+
+.kpsc__features-container__feature-text a {
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+
+.kpsc__features-container__feature {
+    min-width: 300px;
+    padding: 1rem;
+    margin: 2rem;
+    width: 25%;
+    background: #fff;
+    box-shadow: rgb(0 0 0 / 25%) 0 3px 11px 0;
+    -webkit-box-shadow: rgb(0 0 0 / 25%) 0 3px 11px 0;
+}
+
+@media screen and (max-width: 1380px) {
+    .kpsc__features-container__feature {
+        width: 40%;
+    }
+    .kpsc__features-container__feature:last-child {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 1151px) {
+    .kpsc__features-container__feature,
+    .kpsc__features-container__feature:last-child {
+        width: 80%;
+    }
+}

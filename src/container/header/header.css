@@ -1,0 +1,87 @@
+.kpsc__header {
+    position: relative;
+    font-family: sans-serif;
+}
+
+.kpsc__header-image {
+    width: 100%;
+    overflow: hidden;
+}
+
+.kpsc__header-image img {
+    width: 100%;
+    height: 400px;
+    filter: contrast(0.8) saturate(1.2) brightness(0.7);
+    object-fit: cover;
+}
+
+.kpsc__header-image-text {
+    position: absolute;
+    color: white;
+    top: 35%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.kpsc__header-image-text h2 {
+    font-size: 36px;
+}
+
+.kpsc__header-image-text h3 {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.kpsc__header-image-text p {
+    color: #f5ac00;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.kpsc__header-image-cta {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+.kpsc__header-image-cta a {
+    padding: 2rem;
+    align-self: center;
+    background: transparent;
+    border: none;
+    color: white;
+}
+
+.kpsc__header-cta button {}
+
+@media screen and (max-width: 934px) {
+    .kpsc__header-image-text {
+        top: 40%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .kpsc__header-image-text {
+        top: 45%;
+        left: 40%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .kpsc__header-image-text {
+        top: 50%;
+        left: 40%;
+    }
+    .kpsc__header-image-text h1 {
+        font-size: 23px;
+    }
+    .kpsc__header-image-text p {
+        font-size: 20px;
+    }
+    .kpsc__header-image-text h3 {
+        font-size: 20px;
+    }
+    .kpsc__header-image-cta a {
+        padding: 1rem;
+    }
+}

@@ -1,0 +1,18 @@
+.kpsc__company-imageContainer{
+    display: flex;
+    justify-content: space-around;
+    margin: 0rem 6rem;
+    flex-wrap: wrap;
+}
+
+.kpsc__company-imageContainer img{
+    max-width: 400px;
+    width: 30%;
+    min-width: 300px;
+    margin-bottom: 2rem;
+    
+}
+
+@media screen and (max-width: 1195px) {
+    
+}

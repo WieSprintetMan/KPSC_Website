@@ -1,0 +1,55 @@
+.kpsc__contact{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+}
+
+.kpsc__contact h1{
+    font-weight: 400;
+}
+
+.kpsc__contact_sideInfos{
+    width: 30%;
+}
+.kpsc__contact_inputContainer{
+    width: 70%;
+}
+
+.kpsc__contact_inputContainer input{
+   background-color: #D8D8D8;
+   height: 50px;
+   border-width: 0px;
+   border-radius: 1rem;
+
+}
+.kpsc__contact_inputContainer form{
+    
+    padding: 2rem;
+}
+.kpsc__contact_inputContainer-firstRow{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.kpsc__contact_inputContainer-firstRow input{
+    width: 40%;
+    min-width: 200px;
+    margin: 2rem;
+}
+.kpsc__contact_inputContainer-secondRow{
+    display: table;
+    align-items: space-between;
+}
+
+.kpsc__contact_inputContainer-secondRow input{
+    width: 40%;
+    min-width: 200px;
+    margin: 2rem;
+}
+
+.kpsc__contact_inputContainer-secondRow_phone{
+    width: 30% !important;
+    min-width: 200px;
+    margin: 2rem;
+}

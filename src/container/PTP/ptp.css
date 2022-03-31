@@ -1,0 +1,12 @@
+.kpsc__ptp {
+    background-color: #efefef;
+}
+
+.kpsc__ptp h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.kpsc__ptp video {
+    width: 100%;
+}
